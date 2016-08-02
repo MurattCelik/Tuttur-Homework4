@@ -1,8 +1,8 @@
-## Tuttur-Homework4
+##### Tuttur-Homework4
 
 ###Shell'de manuel oluşturmak
 
-İlk önce nano girmek istediğimiz manuelin adını yazıp manuel sayfasına giriyoruz.Aşağıdaki yazı yazma kurallarına göre manuel sayfasını oluşturuyoruz.
+######İlk önce nano girmek istediğimiz manuelin adını yazıp manuel sayfasına giriyoruz.Aşağıdaki yazı yazma kurallarına göre manuel sayfasını oluşturuyoruz.
 
 .TH İSİM BÖLÜM ZAMAN -->> Bu komutla ana başlık yazılır. Aranılan komutun ve ya dosyanın ismi, hangi bölümde olduğu ve en son değişiklik yapıldığı zaman burada belirtilmektedir.
 
